@@ -1,2 +1,1 @@
-# Four-card-feature-section
-Frontendmentors.io
+# four-card-feature-section-master
